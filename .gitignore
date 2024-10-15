@@ -1,0 +1,11 @@
+# Ignore all folders
+*/
+
+# Ignore all JavaScript files
+*.js
+
+# Ignore all text files
+*.txt
+
+# Ignore all HTML files
+*.html
